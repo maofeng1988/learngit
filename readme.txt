@@ -6,3 +6,4 @@ Git tracks changes of files.
 Remote repositry added.
 
 Creating a new branch is quick and simple.
+Test --no-ff mode.
