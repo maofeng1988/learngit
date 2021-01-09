@@ -10,5 +10,9 @@ Test --no-ff mode.
 Tett fast forward mode.
 
 Something to stash.
+<<<<<<< HEAD
 
 Try rebase.
+=======
+I'm the second person.
+>>>>>>> modify readme file from another repositry
