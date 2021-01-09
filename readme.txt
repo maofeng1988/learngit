@@ -10,3 +10,5 @@ Test --no-ff mode.
 Tett fast forward mode.
 
 Something to stash.
+
+Try rebase.
